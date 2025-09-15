@@ -75,4 +75,12 @@ Run the scraper:
 	SQLite3 for lightweight database storage
  Output :
 <img width="827" height="143" alt="output" src="https://github.com/user-attachments/assets/8eaf3fd7-14c3-431b-993e-e70f1df6a598" />
+
+
+
 <img width="583" height="153" alt="output2" src="https://github.com/user-attachments/assets/c956979d-c863-4ebc-8455-7df29ccec6d9" />
+
+
+
+📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -73,3 +73,5 @@ Run the scraper:
 	Python (requests, BeautifulSoup, sqlite3)
 
 	SQLite3 for lightweight database storage
+ Output :
+<img width="827" height="143" alt="output" src="https://github.com/user-attachments/assets/8eaf3fd7-14c3-431b-993e-e70f1df6a598" />
